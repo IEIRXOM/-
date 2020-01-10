@@ -1,0 +1,13 @@
+h1{
+   color:greenyellow;
+}
+p{
+    color: rgb(255, 5, 5);
+}
+.item{
+    font-size: 20px;
+    color: blue; 
+}
+.container{
+    border: 5px solid black;
+}
